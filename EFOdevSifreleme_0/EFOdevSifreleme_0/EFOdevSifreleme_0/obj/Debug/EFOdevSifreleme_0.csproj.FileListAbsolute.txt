@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\EFOdevSifreleme_0\EFOdevSifreleme_0\bin\Debug\EFOdevSifreleme_0.exe.config
+C:\Users\Hp\source\repos\EFOdevSifreleme_0\EFOdevSifreleme_0\bin\Debug\EFOdevSifreleme_0.exe
+C:\Users\Hp\source\repos\EFOdevSifreleme_0\EFOdevSifreleme_0\bin\Debug\EFOdevSifreleme_0.pdb
+C:\Users\Hp\source\repos\EFOdevSifreleme_0\EFOdevSifreleme_0\obj\Debug\EFOdevSifreleme_0.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\EFOdevSifreleme_0\EFOdevSifreleme_0\obj\Debug\EFOdevSifreleme_0.Properties.Resources.resources
+C:\Users\Hp\source\repos\EFOdevSifreleme_0\EFOdevSifreleme_0\obj\Debug\EFOdevSifreleme_0.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\EFOdevSifreleme_0\EFOdevSifreleme_0\obj\Debug\EFOdevSifreleme_0.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\EFOdevSifreleme_0\EFOdevSifreleme_0\obj\Debug\EFOdevSifreleme_0.exe
+C:\Users\Hp\source\repos\EFOdevSifreleme_0\EFOdevSifreleme_0\obj\Debug\EFOdevSifreleme_0.pdb
+C:\Users\Hp\source\repos\EFOdevSifreleme_0\EFOdevSifreleme_0\bin\Debug\EntityFramework.dll
+C:\Users\Hp\source\repos\EFOdevSifreleme_0\EFOdevSifreleme_0\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hp\source\repos\EFOdevSifreleme_0\EFOdevSifreleme_0\bin\Debug\EntityFramework.xml
+C:\Users\Hp\source\repos\EFOdevSifreleme_0\EFOdevSifreleme_0\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hp\source\repos\EFOdevSifreleme_0\EFOdevSifreleme_0\obj\Debug\EFOdevSifreleme_0.Form1.resources
+C:\Users\Hp\source\repos\EFOdevSifreleme_0\EFOdevSifreleme_0\obj\Debug\EFOdevSifreleme_0.csproj.CopyComplete
